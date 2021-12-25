@@ -224,16 +224,16 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        f"`My Detail Ubot `\n"
-        f"┏━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        f"┣[ 🧭 `Bot uptime :` {uptime}\n"
-        f"┣[ 👤 `User       :` {DEFAULTUSER}\n"
-        f"┣[ 🐍 `Python     :` v{python_version()}\n"
-        f"┣[ ⚙️ `Telethon   :` v{version.__version__}\n"
-        f"┣[ 👁‍🗨 `Username   :` @{user.username}\n"
-        f"┣[ 🎮 `Running on :` {UPSTREAM_REPO_BRANCH}\n"
-        f"┗━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        f"`All modules loaded:` {len(modules)}"
+        f"`𝓔𝓩𝓩 𝓤𝓢𝓔𝓡𝓑𝓞𝓣 `\n"
+        f"╬╬═════════════════════╬╬\n"
+        f"┣[╺  `𝑩𝑶𝑻 𝑼𝑷𝑻𝑰𝑴𝑬 :` {uptime}\n"
+        f"┣[╺  `𝑼𝑺𝑬𝑹       :` {DEFAULTUSER}\n"
+        f"┣[╺  `𝑷𝒀𝑻𝑯𝑶𝑵     :` v{python_version()}\n"
+        f"┣[╺  `𝑻𝑬𝑳𝑬𝑻𝑯𝑶𝑵   :` v{version.__version__}\n"
+        f"┣[╺  `𝑼𝑺𝑬𝑹𝑵𝑨𝑴𝑬   :` @{user.username}\n"
+        f"┣[╺  `𝑹𝑼𝑵𝑵𝑰𝑵𝑮  𝑶𝑵 :` {UPSTREAM_REPO_BRANCH}\n"
+        f"╬╬══════════════════════╬\n"
+        f"`✓ Modules loaded:` {len(modules)}"
     )
     if ALIVE_LOGO:
         try:
