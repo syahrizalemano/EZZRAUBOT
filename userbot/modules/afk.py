@@ -10,7 +10,6 @@ from userbot import (  # noqa pylint: disable=unused-import isort:skip
     AFKREASON,
     BOTLOG,
     BOTLOG_CHATID,
-    CMD_HANDLER,
     CMD_HELP,
     COUNT_MSG,
     ISAFK,
