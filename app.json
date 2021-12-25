@@ -176,7 +176,7 @@
     },
     "ALIVE_LOGO": {
       "description": "Image in .alive message. the value MUST A DIRECT LINK or Will Crash!",
-      "value": "https://telegra.ph/file/09b16d6627c5dfe47342e.jpg",
+      "value": "https://telegra.ph/file/0e9434e0d7687cfedf630.jpg",
       "required": false
     },
     "USR_TOKEN_UPTOBOX": {
