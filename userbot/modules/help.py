@@ -26,7 +26,7 @@ async def hep(event):
         string1 = "Silakan tentukan modul mana yang Anda ingin eksplor !! \n\n Penggunaan: .help <nama modul> \n \n "
         string = "₰ "
         string3 = "Daftar untuk semua perintah yang tersedia di bawah ini: \n"
-        string2 = "》》》》》》》》》》₰《《《《《 《《《《《"
+        string2 = "》》》》》》》》》》₰《《《《《《《《《《"
         for i in CMD_HELP:
             string += "`" + str(i)
             string += "`  ₰  "
