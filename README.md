@@ -9,11 +9,11 @@
 
 ## DEPLOY
 The easiest way to deploy this userbot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/8f131449f765932dffe7b.jpg" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/578dac8fc194572158330.jpg" width="250" height="35.45"/></a></p>
 
 ## String Session
 repl.it
-align="center"><a href="https://string.projectalf.repl.run/"> <img src="https://img.shields.io/badge/Generate%20Session-lightgrey?style=for-the-badge&logo=repl.it" width="210" height="34.45"/></a></p>
+align="center"><a href="https://string.projectalf.repl.run/"> <img src="https://telegra.ph/file/8c1d3605ece06" width="210" height="230."/></a></p>
 
 
 
