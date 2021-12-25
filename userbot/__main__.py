@@ -31,7 +31,7 @@ for module_name in ALL_MODULES:
 
 LOGS.info("EZZ USERBOT MENYALA")
 
-LOGS.info("DEPLOY EZZ USERBOT SUCCSES !!!"
+LOGS.info("DEPLOY EZZ USERBOT SUCCESS !!!"
           "KETIK  .alive/.ping UNTUK MENCOBANYA.")
 
 
