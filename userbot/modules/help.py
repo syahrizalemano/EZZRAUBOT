@@ -23,13 +23,13 @@ async def hep(event):
             await asyncio.sleep(5)
             await event.delete()
     else:
-        string1 = "Silakan tentukan modul mana yang Anda ingin eksplor !! \n Penggunaan: .help <nama modul> \n \n "
+        string1 = "Silakan tentukan modul mana yang Anda ingin eksplor !! \n\n Penggunaan: .help <nama modul> \n \n "
         string = "₰ "
-        string3 = "Daftar untuk semua perintah yang tersedia di bawah ini: "
-        string2 = "》》》》》₰《《《《《 \n \n"
+        string3 = "Daftar untuk semua perintah yang tersedia di bawah ini: \n"
+        string2 = "》》》》》》》》》》₰《《《《《 《《《《《
         for i in CMD_HELP:
             string += "`" + str(i)
-            string += "`  •  "
+            string += "`  ₰  "
         await event.edit(
             f"{string1}" f"{string3}" f"{string2}\n" f"{string}" f"{string2}"
         )
