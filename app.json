@@ -1,7 +1,7 @@
 {
   "name": "EZZ USERBOT",
   "description": "[USERBOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
-  "logo": "https://telegra.ph/file/0e9434e0d7687cfedf630.jpg",
+  "logo": "https://telegra.ph/file/83a7a291603ac2c0a326a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -177,7 +177,7 @@
     },
     "ALIVE_LOGO": {
       "description": "Image in .alive message. the value MUST A DIRECT LINK or Will Crash!",
-      "value": "https://telegra.ph/file/0e9434e0d7687cfedf630.jpg",
+      "value": "https://telegra.ph/file/83a7a291603ac2c0a326a.jpg",
       "required": false
     },
     "USR_TOKEN_UPTOBOX": {
