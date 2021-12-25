@@ -2,7 +2,6 @@
 <p align="center">
     <a href="https://t.me/zraezzra"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=ff69b4&logo=github&logoColor=black&style=for-the-badge" /></a>
-    <a href="https://github.com/syahrizalemano/EZZRAUBOT/network/members"> <img src="https://img.shields.io/github/forks/noob-kittu/YoneRobot?color=green&logo=github&logoColor=blue&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
