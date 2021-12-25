@@ -9,11 +9,11 @@
 
 ## DEPLOY
 The easiest way to deploy this userbot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/578dac8fc194572158330.jpg" width="250" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/20c17597d9b6f3d9d9713.jpg" width="250" height="230"/></a></p>
 
+## STRING GEN
+<p align="center"><a href="https://string.projectalf.repl.run/"> <img src="https://telegra.ph/file/9ba6848c087b5ce4f2b3d.jpg" width="210" height="230."/></a></p>
 
-align="center"><a href="https://string.projectalf.repl.run/"> <img src="https://telegra.ph/file/9ba6848c087b5ce4f2b3d.jpg" width="210" height="230."/></a></p>
-## STRING SESSION
 
 
 ## Credits
