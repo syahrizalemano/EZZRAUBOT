@@ -38,7 +38,7 @@ async def gcast(event):
     kk = await event.edit("`[̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅] 3O%`")
     kk = await event.edit("`Lama anjeng`")
     kk = await event.edit("`[̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅] 100%`")
-    kk = await event.edit("`EZZ UBOT Berhasil Mengirim Pesan Ke** `{done}` **Grup, Gagal Mengirim Pesan Ke** `{er}` **Grup] 100%`")
+    kk = await event.edit("`EZZ UBOT Berhasil Mengirim Pesan`")
     er = 0
     done = 0
     async for x in event.client.iter_dialogs():
