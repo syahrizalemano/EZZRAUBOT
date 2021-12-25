@@ -98,7 +98,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     await wannasee.edit(
         " **𝑬𝒁𝒁 𝑼𝑺𝑬𝑹𝑩𝑶𝑻**\n"
-        " [ʀɛքօ⇲](https://github.com/syahrizalemano/EZZRAUBOT.)\n"
+        " [ʀɛքօ⇲](https://github.com/syahrizalemano/EZZRAUBOT)\n"
     )
 
 
