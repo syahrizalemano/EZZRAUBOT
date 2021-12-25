@@ -142,7 +142,7 @@ async def update(event, repo, ups_rem, ac_br):
         repo.git.reset("--hard", "FETCH_HEAD")
     await update_requirements()
     await event.edit(
-        "`Successfully Updated!\n" "ProjectAlf is restarting... Wait for a second!`"
+        "`Successfully Updated!\n" "EZZ USERBOT is restarting... Wait for a second!`"
     )
     await asyncio.sleep(15)
     await event.delete()
@@ -227,7 +227,7 @@ async def upstream(event):
             "`Force-Syncing to latest stable userbot code, please wait...`"
         )
     if conf == "now":
-        await event.edit("`Updating ProjectAlf, please wait....`")
+        await event.edit("`Updating EZZ USERBOT, please wait....`")
         await update(event, repo, ups_rem, ac_br)
         await asyncio.sleep(15)
         await event.delete()
