@@ -27,7 +27,7 @@ async def hep(event):
         string = "₰ "
         string3 = "Daftar untuk semua perintah yang tersedia di bawah ini: \n"
         string2 = "》》》》》》》》》》•《《《《《《《《《《"
-        string4 = "┏━━━°⌜ Ɛɀɀ ԱβටͲ ⌟°━━━┓
+        string4 = "┏━━━°⌜ Ɛɀɀ ԱβටͲ ⌟°━━━┓"
         for i in CMD_HELP:
             string += "`" + str(i)
             string += "`  ₰  "
