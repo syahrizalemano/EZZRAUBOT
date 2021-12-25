@@ -27,11 +27,12 @@ async def hep(event):
         string = "₰ "
         string3 = "Daftar untuk semua perintah yang tersedia di bawah ini: \n"
         string2 = "》》》》》》》》》》•《《《《《《《《《《"
+        string4 = "┏━━━°⌜ Ɛɀɀ ԱβටͲ ⌟°━━━┓
         for i in CMD_HELP:
             string += "`" + str(i)
             string += "`  ₰  "
         await event.edit(
-            f"{string1}" f"{string3}" f"{string2}\n" f"{string}" f"{string2}"
+            f"{string1}" f"{string3}" f"{string4}\n" f"{string}" f"{string2}"
         )
         await asyncio.sleep(20)
         await event.delete()
