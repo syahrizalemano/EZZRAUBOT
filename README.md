@@ -9,7 +9,7 @@
 
 ## DEPLOY
 The easiest way to deploy this userbot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/764d872199e66ac4ca490.png" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/syahrizalemano/EZZRAUBOT"> <img src="https://telegra.ph/file/8f131449f765932dffe7b.jpg" width="210" height="34.45"/></a></p>
 
 ## String Session
 repl.it
