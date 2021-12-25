@@ -1,17 +1,7 @@
-# ProjectAlf UserBot
+          
+# ◣𝙀𝙕𝙕 𝙐𝙎𝙀𝙍𝘽𝙊𝙏◥
 
-<p align="center">
-    <a href="https://github.com/alfianandaa/ProjectAlf/actions?query=workflow%3AFailCheck" > <img src="https://img.shields.io/github/workflow/status/alfianandaa/ProjectAlf/FailCheck/master?style=for-the-badge&logo=github-actions&logoColor=green" alt="Failcheck" /></a>
-    <a href="https://github.com/alfianandaa/ProjectAlf/actions?query=workflow%3Apylint"> <img src="https://img.shields.io/github/workflow/status/alfianandaa/ProjectAlf/pylint/master?label=pylint&style=for-the-badge&logo=github-actions&logoColor=green" alt="Pylint" /></a>
-    <a href="https://app.codacy.com/manual/alfianandaa/ProjectAlf/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/alfianandaa/ProjectAlf"> <img src="https://img.shields.io/github/repo-size/alfianandaa/ProjectAlf?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/alfianandaa/ProjectAlf/commits/master"> <img src="https://img.shields.io/github/last-commit/alfianandaa/ProjectAlf?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/alfianandaa/ProjectAlf/issues"> <img src="https://img.shields.io/github/issues/alfianandaa/ProjectAlf?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/alfianandaa/ProjectAlf/network/members"> <img src="https://img.shields.io/github/forks/alfianandaa/ProjectAlf?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://hub.docker.com/r/alfianandaa/alf"> <img src="https://img.shields.io/docker/image-size/alfianandaa/alf/groovy?label=docker%20image%20size&logo=docker&style=for-the-badge" /></a>
-    <a href="https://hub.docker.com/r/alfianandaa/alf/tags"> <img src="https://img.shields.io/docker/v/alfianandaa/alf/groovy?label=docker%20version&logo=docker&style=for-the-badge" /></a>
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=brightgreen&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 ```
 /**
