@@ -283,7 +283,7 @@ with bot:
         async def handler(event):
             if event.message.from_id != uid:
                 await event.reply(
-                    "I'm [ProjectAlf](https://github.com/alfianandaa/ProjectAlf) modules helper...\nplease make your own bot, don't use mine 😋"
+                    "I'm [EZZRA USERBOT](https://github.com/syahrizalemano/EZZRAUBOT) modules helper..."
                 )
             else:
                 await event.reply(f"`Hey there {ALIVE_NAME}\n\nI work for you :)`")
@@ -298,7 +298,7 @@ with bot:
                 result = builder.article(
                     "Please Use Only With .help Command",
                     text="{}\nTotal loaded modules: {}".format(
-                        "[ProjectAlf](https://github.com/alfianandaa/ProjectAlf) modules helper.\n",
+                        "[EZZ USERBOT](https://github.com/syahrizalemano/EZZRAUBOT) modules helper.\n",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -319,11 +319,11 @@ with bot:
                         [
                             custom.Button.url(
                                 "GitHub Repo",
-                                "https://github.com/alfianandaa/ProjectAlf",
+                                "https://github.com/syahrizalemano/EZZRAUBOT",
                             ),
                             custom.Button.url(
                                 "Support",
-                                "https://t.me/UserBotIndo"),
+                                "https://t.me/zraezzra"),
                         ],
                     ],
                     link_preview=False,
