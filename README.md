@@ -10,7 +10,7 @@
 
 
 
-<img src="https://telegra.ph/file/0e9434e0d7687cfedf630.jpg" alt="EZZ USERBOT">
+<img src="https://telegra.ph/file/83a7a291603ac2c0a326a.jpg" alt="EZZ USERBOT">
 ᴀ ᴜꜱᴇʀʙᴏᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
 ## DEPLOY
