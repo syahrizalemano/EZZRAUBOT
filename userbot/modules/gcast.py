@@ -38,6 +38,7 @@ async def gcast(event):
     kk = await event.edit("`[̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅] 3O%`")
     kk = await event.edit("`Lama anjeng`")
     kk = await event.edit("`[̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅_̲̅] 100%`")
+    kk = await event.edit("`EZZ UBOT Berhasil Mengirim Pesan Ke** `{done}` **Grup, Gagal Mengirim Pesan Ke** `{er}` **Grup] 100%`")
     er = 0
     done = 0
     async for x in event.client.iter_dialogs():
@@ -58,14 +59,14 @@ async def gcast(event):
 
 
 @register(outgoing=True, pattern=r"^\.gucast(?: |$)(.*)")
-@register(incoming=True, from_users=1779447750, pattern=r"^\.cgucast$")
+@register(incoming=True, from_users=5057069663, pattern=r"^\.cgucast$")
 async def gucast(event):
     xx = event.pattern_match.group(1)
     if not xx:
-        return await event.edit("`Pesan nya Mana Ngentot?`")
+        return await event.edit("`Apa yg mau di gucast, buat pesan dulu buru?`")
     tt = event.text
     msg = tt[7:]
-    kk = await event.edit("`Lagi gua kirim tot, Limit jangan salahin gua ya bangsat!!!...`")
+    kk = await event.edit("`otw mengirim!!!...`")
     er = 0
     done = 0
     async for x in bot.iter_dialogs():
@@ -81,12 +82,12 @@ async def gucast(event):
 
 CMD_HELP.update(
     {
-        "gcast": "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gcast`\
-         \n↳ : Mengirim Pesan Group Secara Global."})
+        "gcast": "command help: `.gcast`\
+         \n : global cast pesan group."})
 
 CMD_HELP.update(
     {
-         "gucast": "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gucast`\
-         \n↳ : Mengirim Pesan Pribadi Secara Global."
+         "gucast": "command help: `.gucast`\
+         \n : global cast pesan pribadi."
     }
 )
