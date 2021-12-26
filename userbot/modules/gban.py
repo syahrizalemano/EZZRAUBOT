@@ -90,11 +90,11 @@ async def gben(userbot):
         dark = await dc.reply("`ｎｏｗ ｌｏａｄｉｎｇ . . .`")
     else:
         dark = await dc.edit("`█▒▒▒▒▒▒▒▒▒`")
+        dark = await dc.edit("`█████▒▒▒▒▒`")
+        dark = await dc.edit("`███████▒▒▒`")
+        dark = await dc.edit("`██████████`")
     me = await userbot.client.get_me()
-    await dark.edit(f"`███▒▒▒▒▒▒▒`")
-    await dark.edit(f"`█████▒▒▒▒▒`")
-    await dark.edit(f"`███████▒▒▒`")
-    await dark.edit(f"`██████████`")
+    await dark.edit(f"`GLOBAL BAN SUCCES!!`")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
     f"@{me.username}" if me.username else my_mention
     await userbot.get_chat()
